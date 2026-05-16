@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Mingju Gao"
+excerpt: "Mingju Gao is an incoming Ph.D. student in Computer Science at Peking University, working on 3D computer vision, diffusion models, and embodied AI."
 author_profile: true
 redirect_from: 
   - /about/
