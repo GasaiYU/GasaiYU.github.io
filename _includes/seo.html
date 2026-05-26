@@ -4,9 +4,8 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if site.url %}
-  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
-{% endif %}
+{% assign canonical_path = page.url | replace: "index.html", "" | replace: "/index.html", "/" %}
+{% assign canonical_url = canonical_path | prepend: seo_url %}
 
 <title>{{ site.title }} - Homepage</title>
 
@@ -32,13 +31,15 @@
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ site.title }}">
+<meta name="author" content="{{ site.author.name | default: site.title }}">
 
 {% if seo_url %}
-  <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
-  <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+  <meta property="og:url" content="{{ canonical_url }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
@@ -72,4 +73,22 @@
 {% if site.baidu_site_verification %}
   <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}" />
 {% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.author.name | default: site.title }}",
+  "url": "{{ site.author.uri | default: site.url }}",
+  "description": "{{ site.description | markdownify | strip_html | strip_newlines | escape_once }}",
+  "email": "mailto:{{ site.author.email }}",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Peking University"
+  },
+  "sameAs": [
+    "{{ site.author.googlescholar }}",
+    "https://github.com/{{ site.author.github }}"
+  ]
+}
+</script>
 <!-- end SEO -->
