@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: "Mingju Gao"
 excerpt: "Mingju Gao is an incoming Ph.D. student in Computer Science at Peking University, working on 3D computer vision, diffusion models, and embodied AI."
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% comment %}
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -86,9 +85,9 @@ MICCAI 2024 Spotlight.
 </div>
 </div>
 
-<!-- - **FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**  
+- **FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**  
   Jinwei Li, Huan-ang Gao, Wenyi Li, Haohan Chi, Chenyu Liu, Chenxi Du, Yiqian Liu, **Mingju Gao**, et al.  
-  **BMVC 2026**. -->
+  **BMVC 2026**.
 
 # Education
 - *2026.08 - Now*, Incoming Ph.D. student in Computer Science, [Peking University](https://cs.pku.edu.cn/English/Home.htm).
@@ -102,4 +101,3 @@ MICCAI 2024 Spotlight.
 
 # Professional Service
 - Conference Reviewer: NIPS 2026, CVPR 2026, CVPR 2025, ICCV 2025.
-{% endcomment %} -->
