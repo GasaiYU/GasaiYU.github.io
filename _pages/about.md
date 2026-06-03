@@ -85,10 +85,6 @@ MICCAI 2024 Spotlight.
 </div>
 </div>
 
-- **FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**  
-  Jinwei Li, Huan-ang Gao, Wenyi Li, Haohan Chi, Chenyu Liu, Chenxi Du, Yiqian Liu, **Mingju Gao**, et al.  
-  **BMVC 2026**.
-
 # Education
 - *2026.08 - Now*, Incoming Ph.D. student in Computer Science, [Peking University](https://cs.pku.edu.cn/English/Home.htm).
 - *2023.08 - 2026.06*, M.S. in Computer Science, [Institute of Computing Technology](https://english.ict.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/) (ICT, CAS).
