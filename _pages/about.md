@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% comment %}
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -97,3 +99,4 @@ MICCAI 2024 Spotlight.
 
 # Professional Service
 - Conference Reviewer: NIPS 2026, CVPR 2026, CVPR 2025, ICCV 2025.
+{% endcomment %}
