@@ -24,11 +24,23 @@ Previously, I received my M.S. degree from the [Institute of Computing Technolog
 [CV](images/Person/gmjcv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=PMuXXWQAAAAJ&hl=en) / [GitHub](https://github.com/GasaiYU) / [Email](mailto:gaomingju19@mails.ucas.ac.cn)
 
 # News.
+- *2026.06*: One paper accepted to **ECCV 2026**.
 - *2026.03*: One paper accepted to **CVPR 2026**.
 - *2025.03*: One paper accepted to **CVPR 2025**.
 - *2024.07*: Two papers accepted to **ECCV 2024**, and one paper accepted as a **MICCAI 2024 Spotlight**.
 
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/Paper/physrag.png' alt="PhysRAG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation](https://arxiv.org/abs/2606.26916)**
+
+Kexu Cheng\*, Zicheng Liu\*, **Mingju Gao\***, Chunhe Song, Hao Tang.
+
+ECCV 2026. (*Equal contribution*)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/Paper/PAM.png' alt="PAM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
