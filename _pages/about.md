@@ -39,7 +39,7 @@ Previously, I received my M.S. degree from the [Institute of Computing Technolog
 
 **Mingju Gao\***, Jingkai Zhou\*, Kun Gai, Changqian Yu, Hao Tang.
 
-arXiv 2026. (*Equal contribution*)
+arXiv 2026.
 </div>
 </div>
 
