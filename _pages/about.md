@@ -32,7 +32,7 @@ Previously, I received my M.S. degree from the [Institute of Computing Technolog
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Paper/advfd.jpg' alt="AdvFD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Paper/advfd.png' alt="AdvFD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[AdvFD: Boosting Visual Generation via Adversarial Fréchet Distance Loss](https://gasaiyu.github.io/AdvFD-page/)**
