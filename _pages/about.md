@@ -37,7 +37,7 @@ Previously, I received my M.S. degree from the [Institute of Computing Technolog
 
 **[AdvFD: Boosting Visual Generation via Adversarial Fréchet Distance Loss](https://gasaiyu.github.io/AdvFD-page/)**
 
-**Mingju Gao\***, Jingkai Zhou\*, Kun Gai, Changqian Yu, Hao Tang.
+**Mingju Gao**, Jingkai Zhou, Kun Gai, Changqian Yu, Hao Tang.
 
 arXiv 2026.
 </div>
@@ -59,7 +59,7 @@ ECCV 2026. (*Equal contribution*)
 
 **[PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](https://github.com/GasaiYU/PAM)**
 
-**Mingju Gao\***, Kaisen Yang\*, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
+**Mingju Gao**, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
 
 CVPR 2026.
 </div>
@@ -70,7 +70,7 @@ CVPR 2026.
 
 **[PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model](https://partrm.c7w.tech/)**
 
-**Mingju Gao\***, Yike Pan\*, Huan-ang Gao\*, Zongzheng Zhang, Wenyi Li, Hao Dong, Hao Tang, Li Yi, Hao Zhao.
+**Mingju Gao**, Yike Pan, Huan-ang Gao, Zongzheng Zhang, Wenyi Li, Hao Dong, Hao Tang, Li Yi, Hao Zhao.
 
 CVPR 2025.
 </div>
