@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Mingju Gao"
-excerpt: "Mingju Gao is an incoming Ph.D. student in Computer Science at Peking University, working on 3D computer vision, diffusion models, and embodied AI."
+excerpt: "Mingju Gao is a first-year Ph.D. student in Computer Science at Peking University, working on 3D computer vision, diffusion models, and embodied AI."
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student in Computer Science at [Peking University](https://cs.pku.edu.cn/English/Home.htm), supervised by Prof. [Hao Tang](https://ha0tang.github.io/). I also collaborate closely with Prof. [Li Yi](https://ericyi.github.io/) and Prof. [Hao Zhao](https://sites.google.com/view/fromandto). I am currently a research intern at [Kling Group](https://klingai.com/), [Kuaishou Technology](https://www.kuaishou.com/en), working on image generation foundation models. My current research interests include 3D computer vision, diffusion models, and embodied AI.
+I am a first-year Ph.D. student in Computer Science at [Peking University](https://cs.pku.edu.cn/English/Home.htm), supervised by Prof. [Hao Tang](https://ha0tang.github.io/). I also collaborate closely with Prof. [Li Yi](https://ericyi.github.io/) and Prof. [Hao Zhao](https://sites.google.com/view/fromandto). I am currently a research intern at [Kling Group](https://klingai.com/), [Kuaishou Technology](https://www.kuaishou.com/en), working on image generation foundation models. My current research interests include 3D computer vision, diffusion models, and embodied AI.
 
 Previously, I received my M.S. degree from the [Institute of Computing Technology](https://english.ict.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/) (ICT, CAS), where I was supervised by Prof. [Xing Hu](https://xinghu-cs.github.io/). I received my B.S. degree in Computer Science from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) (UCAS).
 
 [CV](images/Person/gmjcv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=PMuXXWQAAAAJ&hl=en) / [GitHub](https://github.com/GasaiYU) / [Email](mailto:gaomingju19@mails.ucas.ac.cn)
 
 # News.
+- *2026.10*: **World Models’ Last Exam in Physics** is released on [arXiv](https://arxiv.org/abs/2610.08791).
 - *2026.08*: **AdvFD** is released on [arXiv](https://arxiv.org/abs/2608.11205).
 - *2026.06*: One paper accepted to **ECCV 2026**.
 - *2026.03*: One paper accepted to **CVPR 2026**.
@@ -31,6 +32,19 @@ Previously, I received my M.S. degree from the [Institute of Computing Technolog
 - *2024.07*: Two papers accepted to **ECCV 2024**, and one paper accepted as a **MICCAI 2024 Spotlight**.
 
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Paper/phys-last-exam.webp' alt="World Models’ Last Exam in Physics benchmark overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[World Models’ Last Exam in Physics](https://arxiv.org/pdf/2610.08791)**
+
+**Mingju Gao\*†**, Qingle Liu\*, Yuzhao Peng\*, Xinjie Lin\*, Ziming Qin, Zheng Jiang, Wenyi Li, Calvin Xiao, Youjie Zheng, Kaisen Yang‡, Qinhuai Na‡.
+
+arXiv 2026. (*Equal contribution; †Project lead; ‡Corresponding author*)
+
+[Project page](https://lab.einsia.ai/phys-last-exam/)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Paper/advfd.png' alt="AdvFD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -110,7 +124,7 @@ MICCAI 2024 Spotlight.
 </div>
 
 # Education
-- *2026.08 - Now*, Incoming Ph.D. student in Computer Science, [Peking University](https://cs.pku.edu.cn/English/Home.htm).
+- *2026.08 - Now*, First-year Ph.D. student in Computer Science, [Peking University](https://cs.pku.edu.cn/English/Home.htm).
 - *2023.08 - 2026.06*, M.S. in Computer Science, [Institute of Computing Technology](https://english.ict.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/) (ICT, CAS).
 - *2022.01 - 2022.06*, Visiting Student in Computer Science, [University of California, Berkeley](https://www.berkeley.edu/).
 - *2019.08 - 2023.06*, B.S. in Computer Science, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) (UCAS).
