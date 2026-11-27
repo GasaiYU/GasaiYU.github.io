@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in Computer Science at [Peking University](https://cs.pku.edu.cn/English/Home.htm), supervised by Prof. [Hao Tang](https://ha0tang.github.io/). I also collaborate closely with Prof. [Li Yi](https://ericyi.github.io/) and Prof. [Hao Zhao](https://sites.google.com/view/fromandto). I am currently a research intern at [Kling Group](https://klingai.com/), [Kuaishou Technology](https://www.kuaishou.com/en), working on image generation foundation models. My current research interests include 3D computer vision, diffusion models, and embodied AI.
+I am a first-year Ph.D. student in Computer Science at [Peking University](https://cs.pku.edu.cn/English/Home.htm), supervised by Prof. [Hao Tang](https://ha0tang.github.io/). I also collaborate closely with Prof. [Li Yi](https://ericyi.github.io/) and Prof. [Hao Zhao](https://sites.google.com/view/fromandto). My current research interests include 3D computer vision, diffusion models, and embodied AI.
 
 Previously, I received my M.S. degree from the [Institute of Computing Technology](https://english.ict.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/) (ICT, CAS), where I was supervised by Prof. [Xing Hu](https://xinghu-cs.github.io/). I received my B.S. degree in Computer Science from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) (UCAS).
 
 [CV](images/Person/gmjcv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=PMuXXWQAAAAJ&hl=en) / [GitHub](https://github.com/GasaiYU) / [Email](mailto:gaomingju19@mails.ucas.ac.cn)
 
 # News.
+- *2026.11*: **RoboUniverse-10K** is released on [arXiv](https://arxiv.org/abs/2611.31002).
 - *2026.10*: **World Models’ Last Exam in Physics** is released on [arXiv](https://arxiv.org/abs/2610.08791).
 - *2026.08*: **AdvFD** is released on [arXiv](https://arxiv.org/abs/2608.11205).
 - *2026.06*: One paper accepted to **ECCV 2026**.
@@ -31,7 +32,23 @@ Previously, I received my M.S. degree from the [Institute of Computing Technolog
 - *2025.03*: One paper accepted to **CVPR 2025**.
 - *2024.07*: Two papers accepted to **ECCV 2024**, and one paper accepted as a **MICCAI 2024 Spotlight**.
 
+# Experience
+- *2025.07 - 2026.09*, Research Intern, <img src='images/Logo/kling.png' alt="Kling AI logo" style="height: 1.2em; vertical-align: middle; border-radius: 4px;"> [Kling AI Research](https://klingai.com/). Image generation foundation model.
+
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Paper/robouniverse.png' alt="RoboUniverse-10K overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments](https://arxiv.org/abs/2611.31002)**
+
+Jinkun Liu\*, Yingze Wang\*, Situ Wang\*, Deyao Hong\*, **Mingju Gao\***, Wenyi Li\*, Yizhe Chi\*, Youjie Zheng, Kaisen Yang, Xiangyang Wang, Bingxiang He, Yuxin Zuo, Boyuan Chen, Yue Chen, Cheng Qian, Tianxing Chen, Huichi Zhou, Huaxiu Yao, Hao Tang, Hao Zhou, Ya-Qin Zhang, Calvin Xiao‡, Tiga Altman‡, Huan-ang Gao†‡.
+
+arXiv 2026. (*Equal contribution; †Project lead; ‡Corresponding author*)
+
+[Project page](https://lab.einsia.ai/robo-universe/)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Paper/phys-last-exam.webp' alt="World Models’ Last Exam in Physics benchmark overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -128,10 +145,6 @@ MICCAI 2024 Spotlight.
 - *2023.08 - 2026.06*, M.S. in Computer Science, [Institute of Computing Technology](https://english.ict.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/) (ICT, CAS).
 - *2022.01 - 2022.06*, Visiting Student in Computer Science, [University of California, Berkeley](https://www.berkeley.edu/).
 - *2019.08 - 2023.06*, B.S. in Computer Science, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) (UCAS).
-  
-# Experience
-- *2025.07 - Present*, Research Intern, [Kling Group](https://klingai.com/), [Kuaishou Technology](https://www.kuaishou.com/en). Image generation foundation model.
-- *2023.03 - 2025.07*, Research Intern, [Tsinghua AIR](https://air.tsinghua.edu.cn/en). 2D AIGC and 3D reconstruction.
 
 # Professional Service
 - Conference Reviewer: ICLR 2027, NIPS 2026, CVPR 2026, CVPR 2025, ICCV 2025.
